@@ -1,0 +1,25 @@
+{
+  "name": "state-encapsulation-without-classes-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url":
+      "git+https://github.com/Trulsaa/state-encapsulation-without-classes-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url":
+      "https://github.com/Trulsaa/state-encapsulation-without-classes-test/issues"
+  },
+  "homepage":
+    "https://github.com/Trulsaa/state-encapsulation-without-classes-test#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
